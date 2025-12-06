@@ -1,0 +1,2 @@
+# lamp
+I love lamp
